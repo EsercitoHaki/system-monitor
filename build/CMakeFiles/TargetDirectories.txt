@@ -1,0 +1,3 @@
+/home/esercito/Workspaces/Firmware/system_monitor/build/CMakeFiles/system_monitor.dir
+/home/esercito/Workspaces/Firmware/system_monitor/build/CMakeFiles/edit_cache.dir
+/home/esercito/Workspaces/Firmware/system_monitor/build/CMakeFiles/rebuild_cache.dir
