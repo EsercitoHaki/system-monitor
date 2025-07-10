@@ -67,6 +67,10 @@ g++ -std=c++11 -o system_monitor main.cpp system_data.cpp gui_manager.cpp \
 ./system_monitor
 ```
 
+## Screenshots
+
+<table> <tr> <td align="center"> <strong>Nhiệt độ hệ thống</strong><br> <img src="screenshots/Temperatures.png" width="400"/> </td> <td align="center"> <strong>CPU & RAM</strong><br> <img src="screenshots/CPU_Memory.png" width="400"/> </td> </tr> <tr> <td align="center"> <strong>Ổ đĩa</strong><br> <img src="screenshots/DiskUsage.png" width="400"/> </td> <td align="center"> <strong>Cài đặt</strong><br> <img src="screenshots/Setting.png" width="400"/> </td> </tr> </table>
+
 ## Cách sử dụng
 
 1. **Khởi động ứng dụng**: Chạy file thực thi `system_monitor`
