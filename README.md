@@ -56,6 +56,14 @@ sudo dnf install gcc-c++ gtk3-devel pkgconfig
 
 ## Biên dịch và chạy
 
+### Biên dịch
+```bash
+mkdir build
+cd build
+cmake ..
+make
+```
+
 ### Biên dịch thủ công:
 ```bash
 g++ -std=c++11 -o system_monitor main.cpp system_data.cpp gui_manager.cpp \
